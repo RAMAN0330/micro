@@ -1,4 +1,3 @@
-;Bharat Sharma CSC/20/50 University Rollno :- 20050570040
 .MODEL SMALL
 .386
 .DATA
