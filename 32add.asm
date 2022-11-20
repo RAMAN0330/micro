@@ -1,4 +1,3 @@
-;Bharat Sharma CSC/20/50 University Rollno :- 20059570040
 dosseg
 .model small
 .data
