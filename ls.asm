@@ -1,4 +1,3 @@
-;Bharat Sharma CSC/20.50 Univ_Roll_no:20059570040
 dosseg
 .model small
 .stack 100h
